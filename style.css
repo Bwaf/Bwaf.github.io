@@ -1,0 +1,11 @@
+.body {
+    
+}
+
+.vr {
+    height: 100%;
+    width: 1px;
+    border-left: 1px solid gray;
+    /*display: inline-block;*/    
+    /*margin: 0 auto;*/
+}
